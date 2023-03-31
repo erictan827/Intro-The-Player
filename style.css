@@ -1,0 +1,75 @@
+      .dark{background-color:#282828;}
+      .gold{background-color:gold;}
+      .ex1 p{color:white;
+          font-size:150%;
+          text-align:center;}
+      .ex1 h1{color:white; 
+              text-align:center;}
+      .ex1 a:hover,.ex1 a:active {color:yellow;
+                        background: purple;
+                        opacity:1;
+                        transition: 0.3s;}
+      .navbar a:hover,.navbar a:active {color:yellow;
+                        background: purple;
+                        opacity:1;
+                        transition: 0.3s;}
+     .navbar ul{list-style-type:none;
+      background-color:black;
+      position: sticky;}
+     .navbar li{display:inline-block;
+      padding: 10px;
+      background-color:black;}
+      .navbar a{text-decoration:none;
+      color:white;
+      padding:5px 20px;
+      text-align:center;
+      font-size:100%;
+      background-color:black;
+      font-family: Century Gothic;}
+      p{font-size:20px;
+         font-family:"Comic Sans MS", cursive, sans-serif;}
+      .link{text-decoration:none;
+       color:yellow;
+       font-family: Century Gothic;
+       text-align:center;
+     display:block;}
+     .profilepic{float:right;}
+    @media only screen and (max-width: 768px) {
+     figure { display: none;}
+   .navbar,.navbar ul,.navbar li { padding: 0;  }
+   .navbar li { display: block; } 
+     .navbar a { display: block;  padding: 0.5em 0;
+               border-bottom: 2px ridge #00005D; }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  
+  table th {
+    display:block;
+    text-align:center;
+  }
+  
+  table td {
+    display: block;
+    text-align:center;
+  }
+
+  .Award {
+      margin-left:auto;
+    margin-right:auto;}
+
+  main {display:block;}
+  
+  .info{
+  width:100%;}}
+
+
+
+
+
+
+
+
+
